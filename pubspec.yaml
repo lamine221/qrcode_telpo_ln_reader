@@ -2,6 +2,7 @@ name: qrcode_telpo_ln_reader
 description: Plugin Flutter pour scanner des QR codes avec le lecteur Telpo LN (T10/TPS550)
 version: 0.0.1
 homepage:
+repository: https://github.com/lamine221/qrcode_telpo_ln_reader.git
 
 environment:
   sdk: ^3.7.2
